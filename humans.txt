@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Arina Khalapsina   arizzikkkkhal@git.training   @awesomejt
 
 # THANKS
 
