@@ -15,6 +15,10 @@ And one more time.
 
 BLa Bla Bla
 
+## How to Contribute
+
+please fork this repositopy and then issue Pull
+
 ### Copyright
 
 Git.Training.
